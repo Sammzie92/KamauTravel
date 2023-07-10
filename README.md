@@ -9,7 +9,7 @@ WanderLust Travels is a responsive website template designed for a travel agency
 - Usage
 - Credits
 - License
-- 
+
 ### Introduction
 WanderLust Travels provides an immersive experience for users, allowing them to explore various travel destinations and learn more about each location's population, territory, and average price. The website aims to inspire travel enthusiasts and facilitate the booking process.
 
