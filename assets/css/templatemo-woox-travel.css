@@ -370,8 +370,14 @@ Header Style
 }
 
 .header-area .main-nav .logo img {
-  width: 250px;
+  width: 300px;
   margin-top: 15px;
+}
+@media screen and (max-width: 868px){
+  .logo {
+    padding-left: 1em !important;
+  }
+
 }
 
 .background-header .main-nav .logo img {
@@ -581,6 +587,7 @@ Header Style
   .header-area {
     top: 0;
   }
+
   .header-area .main-nav {
     background-color: transparent;
     border-radius: 0px;
